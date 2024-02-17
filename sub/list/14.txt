@@ -13,7 +13,7 @@
   - {name: 🇰🇷 韩国|@ripaojiedian, server: p080.panda001.net, port: 7818, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
   - {name: 🇰🇷 韩国2|@ripaojiedian, server: 125.141.26.7, port: 2020, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
   - {name: 🇺🇸 美国|@ripaojiedian, server: 162.159.136.253, port: 8080, type: vmess, uuid: ade73e62-7554-40a8-9314-195a372bae28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/7bFcoRZS?ed=2048", headers: {Host: xentain.kmoljklj.top}}}
-  - {name: 🇺🇸 美国2|@ripaojiedian, server: 104.21.225.108, port: 80, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048&Telegram🇨🇳 @WangCai_8", headers: {Host: a.prapt5.ir}}}
+  - {name: 🇺🇸 美国2|@ripaojiedian, server: 104.21.225.108, port: 80, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: a.prapt5.ir}}}
   - {name: 🇺🇸 美国3|@ripaojiedian, server: 162.159.136.253, port: 8080, type: vmess, uuid: ade73e62-7554-40a8-9314-195a372bae28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/7bFcoRZS?ed=2048", headers: {Host: xentain.kmoljklj.top}}}
   - {name: 🇸🇬 狮城特殊|@ripaojiedian, server: 54.254.44.150, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 日本特殊|@ripaojiedian, server: 54.169.247.207, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
